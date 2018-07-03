@@ -1,6 +1,4 @@
-/* Melody
- * (cleft) 2005 D. Cuartielles for K3
- *
+/* 
  * This example uses a piezo speaker to play melodies.  It sends
  * a square wave of the appropriate frequency to the piezo, generating
  * the corresponding tone.
@@ -22,7 +20,6 @@
  * b          493 Hz          2028  1014  
  * C          523 Hz          1912  956
  *
- * http://www.arduino.cc/en/Tutorial/Melody
  */
   
 int speakerPin = 9;
